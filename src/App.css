@@ -1,0 +1,9 @@
+.componentWrapper{
+  position: absolute;
+  top: 100px;
+  left: 20%;
+}
+
+* {
+  font-family: Roboto, sans-serif !important ;
+}

@@ -1,0 +1,100 @@
+.tableHeading th {
+    color: #000;
+}
+
+.dashboardContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.sidebarRightContainer {
+    max-width: 240px;
+    word-break: 'break-all';
+    position: fixed;
+    top: 65px;
+    right: 0;
+    max-height: 100vh;
+    background: #e6e6e6;
+    padding: 0 10px 0 30px;
+    ;
+}
+
+.sideBarRightList {
+    width: 100%;
+    max-width: 360;
+    background-color: transparent;
+}
+
+.sideBarRightList .MuiListItemText-root span {
+    font-size: 0.7rem !important;
+}
+
+.sideBarRightList .MuiListItemText-root p {
+    font-size: 0.6rem !important;
+}
+
+.eventCountBtn {
+    background: #28b581 !important;
+    min-width: 23px !important;
+    padding: 4px !important;
+    font-size: 10px !important;
+    color: #fff !important;
+    margin-right: -15px !important;
+}
+
+.statsChart .recharts-surface {
+    overflow: inherit !important;
+}
+
+.statsChart {
+    margin-bottom: 5rem !important;
+    left: -24px !important;
+    top: -75px !important;
+    font-size: 10px !important;
+}
+
+.react-sweet-progress-line-inner {
+    min-height: 6px !important;
+}
+
+.react-sweet-progress-symbol {
+    display: none !important;
+}
+
+.CircularProgressbar {
+    width: 25px !important;
+}
+
+.MuiTableCell-root {
+    padding: 10px 30px 10px 15px !important;
+}
+
+.salesGrossBtn {
+    background: #88b9cc !important;
+    float: right ;
+    padding: 0px !important;
+    font-size: 10px !important;
+    color: #fff !important;
+    min-width: 45px !important;
+    text-transform: lowercase !important;
+}
+
+.newMessage ul > li {
+    padding: 0 !important;
+}
+
+.pageviewIcon {
+    float: right;
+    width: 0.8em !important;
+    color: #b1adad;
+}
+
+.reportTrends {
+    float: right;
+    font-size: 0.8rem;
+    color: #0fab0f;
+}
+
+.reportTrends svg {
+    font-size: 1rem;
+}

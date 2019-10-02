@@ -1,0 +1,40 @@
+.nav-link-style{
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
+    width: 100%;
+}
+
+.notifBell span {
+background-color: #f48a36
+}
+
+.MuiDrawer-paper{
+    box-shadow: 1px 2px 15px 0px #bbb !important
+}
+
+.MuiListItemIcon-root {
+    min-width: 40px !important;
+}
+.MuiListItemIcon-root svg {
+    width: 20px !important;
+}
+
+.MuiList-root{
+    font-size: 13px !important;
+}
+
+.MuiSvgIcon-root {
+    font-size: 17px !important;
+}
+
+.nav-link-style svg {
+    position: absolute;
+    right: 25px;
+}
+
+.MuiTypography-body1 {
+font-size: 0.75rem !important;
+font-weight: bold !important;
+}
+
