@@ -118,8 +118,8 @@ export default function SideBarLeft(props) {
             </div>
             <div className={classes.userDetailsBox}>
                 <img src={faceicon} alt="FaceIcon" className={classes.userDetails} width='70px' />
-                <div style={{fontWeight: 'bold'}}>Suhas U</div>
-                <div>suhas@unikwan.com</div>
+                <div style={{fontWeight: 'bold'}}>Devyani J</div>
+                <div>devjaiswal17@gmail.com</div>
             </div>
             <List>
                 {SideBarLeftList.map((item, index) => (
