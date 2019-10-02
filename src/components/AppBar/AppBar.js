@@ -1,5 +1,5 @@
 import React from 'react';
-import { fade, makeStyles } from '@material-ui/core/styles';
+import { fade, makeStyles} from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/appBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import IconButton from '@material-ui/core/IconButton';
@@ -126,7 +126,7 @@ export default function TopAppBar() {
     const isMobileMenuOpen = Boolean(mobileMoreAnchorEl);
 
     const handleProfileMenuOpen = event => {
-        setAnchorEl(event.currentTarget);
+        // setAnchorEl(event.currentTarget);
     };
 
     const handleMobileMenuClose = () => {
