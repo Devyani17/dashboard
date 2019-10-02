@@ -1,0 +1,17 @@
+
+Pre-requistes:
+-Node installed
+-any code editor like VS Code.
+
+
+To start the project application-
+
+1. Unzip the folder if needed.
+
+2. open command prompt/editor terminal
+at this folder location.
+
+3. Run:  npm install
+
+4. Run: npm start
+
