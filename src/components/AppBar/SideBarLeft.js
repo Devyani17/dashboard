@@ -138,7 +138,7 @@ export default function SideBarLeft(props) {
             </List >
             <Divider />
             <List className={classes.policyBox}>
-                <ListItemText>Unikwan &copy;</ListItemText>
+                <ListItemText>Devyani &copy;</ListItemText>
                 <ListItemText className={classes.linkText}>Privacy <span style={{color: '#000'}}>&</span> Terms</ListItemText>
             </List>
         </Drawer>
